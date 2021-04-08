@@ -1,4 +1,4 @@
-# Wellcome -  Boostrap Sidebar completely hide
+# Wellcome -  Bootstrap Sidebar completely hide
 
 This is a basic dashboard based on the bootstrap free dashboard. The sidebar was edited, instead of hiding the sidebar partially when the screen size is about 768px it hide completely.
 
